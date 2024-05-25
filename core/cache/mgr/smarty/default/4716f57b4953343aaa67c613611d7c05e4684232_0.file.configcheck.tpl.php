@@ -1,15 +1,15 @@
 <?php
-/* Smarty version 4.5.2, created on 2024-05-25 08:25:31
+/* Smarty version 4.5.2, created on 2024-05-25 15:17:23
   from '/Applications/MAMP/htdocs/minimal_project/manager/templates/default/dashboard/configcheck.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.5.2',
-  'unifunc' => 'content_6651a07b9ca7f5_44715245',
+  'unifunc' => 'content_66520103c6be18_84454423',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
-    'abddcdfd31272be894009ea8fdb88964f5800db4' => 
+    '4716f57b4953343aaa67c613611d7c05e4684232' => 
     array (
       0 => '/Applications/MAMP/htdocs/minimal_project/manager/templates/default/dashboard/configcheck.tpl',
       1 => 1712733460,
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6651a07b9ca7f5_44715245 (Smarty_Internal_Template $_smarty_tpl) {
+function content_66520103c6be18_84454423 (Smarty_Internal_Template $_smarty_tpl) {
 if (count($_smarty_tpl->tpl_vars['warnings']->value)) {?>
     <h4><?php echo $_smarty_tpl->tpl_vars['_lang']->value['configcheck_notok'];?>
 </h4>

@@ -1,0 +1,16 @@
+{
+    "name": "nfelt/minimal_project",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Nfelt\\MinimalProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nastia Felt",
+            "email": "anastasia.felt@gmail.com"
+        }
+    ],
+    "require": {}
+}

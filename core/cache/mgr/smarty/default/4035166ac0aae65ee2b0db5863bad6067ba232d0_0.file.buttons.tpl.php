@@ -1,15 +1,15 @@
 <?php
-/* Smarty version 4.5.2, created on 2024-05-25 08:25:31
+/* Smarty version 4.5.2, created on 2024-05-25 15:17:23
   from '/Applications/MAMP/htdocs/minimal_project/manager/templates/default/dashboard/buttons.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.5.2',
-  'unifunc' => 'content_6651a07b99c8e1_21077951',
+  'unifunc' => 'content_66520103c2f538_09694683',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
-    '0d092d854923c4b63814f8faa59dedc10cb56a65' => 
+    '4035166ac0aae65ee2b0db5863bad6067ba232d0' => 
     array (
       0 => '/Applications/MAMP/htdocs/minimal_project/manager/templates/default/dashboard/buttons.tpl',
       1 => 1712733460,
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6651a07b99c8e1_21077951 (Smarty_Internal_Template $_smarty_tpl) {
+function content_66520103c2f538_09694683 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="dashboard-block headless <?php echo $_smarty_tpl->tpl_vars['size']->value;?>
 " id="dashboard-block-<?php echo $_smarty_tpl->tpl_vars['id']->value;?>
 " data-id="<?php echo $_smarty_tpl->tpl_vars['id']->value;?>

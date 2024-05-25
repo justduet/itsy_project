@@ -2,7 +2,7 @@
   'core' => 
   array (
     'name' => 'core',
-    'path' => '/Applications/MAMP/htdocs/itsy_project/manager/',
-    'assets_path' => '/Applications/MAMP/htdocs/itsy_project/manager/assets/',
+    'path' => '/Applications/MAMP/htdocs/minimal_project/manager/',
+    'assets_path' => '/Applications/MAMP/htdocs/minimal_project/manager/assets/',
   ),
 );

@@ -1,6 +1,6 @@
 <?php
 /* Smarty version 4.5.2, created on 2024-05-25 08:25:16
-  from '/Applications/MAMP/htdocs/itsy_project/setup/templates/header.tpl' */
+  from '/Applications/MAMP/htdocs/minimal_project/setup/templates/header.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
@@ -11,7 +11,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
     '5aeb15f2384228a11aaec869a390e7c1ccace7c2' => 
     array (
-      0 => '/Applications/MAMP/htdocs/itsy_project/setup/templates/header.tpl',
+      0 => '/Applications/MAMP/htdocs/minimal_project/setup/templates/header.tpl',
       1 => 1712733460,
       2 => 'file',
     ),

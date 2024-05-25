@@ -1,15 +1,15 @@
 <?php
-/* Smarty version 4.5.2, created on 2024-05-25 08:25:31
+/* Smarty version 4.5.2, created on 2024-05-25 15:17:24
   from '/Applications/MAMP/htdocs/minimal_project/manager/templates/default/dashboard/onlineusers.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.5.2',
-  'unifunc' => 'content_6651a07bf00032_04406375',
+  'unifunc' => 'content_665201044451a7_80655068',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
-    '1902e506bbc95ce2c648b7c9a4988c70ddd6abbf' => 
+    'a2d3074ecb431b5f962cf67ebcef1643520aae64' => 
     array (
       0 => '/Applications/MAMP/htdocs/minimal_project/manager/templates/default/dashboard/onlineusers.tpl',
       1 => 1712733460,
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6651a07bf00032_04406375 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->_checkPlugins(array(0=>array('file'=>'/Applications/MAMP/htdocs/itsy_project/core/vendor/smarty/smarty/libs/plugins/modifier.date_format.php','function'=>'smarty_modifier_date_format',),));
+function content_665201044451a7_80655068 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->_checkPlugins(array(0=>array('file'=>'/Applications/MAMP/htdocs/minimal_project/core/vendor/smarty/smarty/libs/plugins/modifier.date_format.php','function'=>'smarty_modifier_date_format',),));
 ?>
 <p><?php echo $_smarty_tpl->tpl_vars['_lang']->value['onlineusers_message'];?>
 </p>

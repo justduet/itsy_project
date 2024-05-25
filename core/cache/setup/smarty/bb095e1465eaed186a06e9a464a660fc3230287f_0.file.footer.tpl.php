@@ -1,6 +1,6 @@
 <?php
 /* Smarty version 4.5.2, created on 2024-05-25 08:25:11
-  from '/Applications/MAMP/htdocs/itsy_project/setup/templates/footer.tpl' */
+  from '/Applications/MAMP/htdocs/minimal_project/setup/templates/footer.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
@@ -11,7 +11,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
     'bb095e1465eaed186a06e9a464a660fc3230287f' => 
     array (
-      0 => '/Applications/MAMP/htdocs/itsy_project/setup/templates/footer.tpl',
+      0 => '/Applications/MAMP/htdocs/minimal_project/setup/templates/footer.tpl',
       1 => 1712733460,
       2 => 'file',
     ),

@@ -1,6 +1,55 @@
-<!DOCTYPE HTML>
+<?php  return array (
+  'resourceClass' => 'MODX\\Revolution\\modDocument',
+  'resource' => 
+  array (
+    'id' => 1,
+    'type' => 'document',
+    'pagetitle' => 'Home',
+    'longtitle' => 'Congratulations!',
+    'description' => '',
+    'alias' => 'index',
+    'link_attributes' => '',
+    'published' => 1,
+    'pub_date' => 0,
+    'unpub_date' => 0,
+    'parent' => 0,
+    'isfolder' => 0,
+    'introtext' => '',
+    'content' => '
+',
+    'richtext' => 1,
+    'template' => 8,
+    'menuindex' => 0,
+    'searchable' => 1,
+    'cacheable' => 1,
+    'createdby' => 1,
+    'createdon' => 1716625511,
+    'editedby' => 1,
+    'editedon' => 1716652109,
+    'deleted' => 0,
+    'deletedon' => 0,
+    'deletedby' => 0,
+    'publishedon' => 0,
+    'publishedby' => 0,
+    'menutitle' => '',
+    'donthit' => 0,
+    'privateweb' => 0,
+    'privatemgr' => 0,
+    'content_dispo' => 0,
+    'hidemenu' => 0,
+    'class_key' => 'MODX\\Revolution\\modDocument',
+    'context_key' => 'web',
+    'content_type' => 1,
+    'uri' => 'index.html',
+    'uri_override' => 0,
+    'hide_children_in_tree' => 0,
+    'show_in_tree' => 1,
+    'properties' => NULL,
+    'alias_visible' => 1,
+    '_content' => '<!DOCTYPE HTML>
 <html>
 	<head>
+        <base href="assets/neat/">
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Neat &mdash; Free Website Template, Free HTML5 Template by freehtml5.co</title>
@@ -393,4 +442,33 @@
 	<!-- Main -->
 	<script src="js/main.js"></script>
 
-	</body>
+	</body>',
+    '_isForward' => false,
+  ),
+  'contentType' => 
+  array (
+    'id' => 1,
+    'name' => 'HTML',
+    'description' => 'HTML content',
+    'mime_type' => 'text/html',
+    'file_extensions' => '.html',
+    'icon' => '',
+    'headers' => NULL,
+    'binary' => 0,
+  ),
+  'policyCache' => 
+  array (
+  ),
+  'sourceCache' => 
+  array (
+    'MODX\\Revolution\\modChunk' => 
+    array (
+    ),
+    'MODX\\Revolution\\modSnippet' => 
+    array (
+    ),
+    'MODX\\Revolution\\modTemplateVar' => 
+    array (
+    ),
+  ),
+);

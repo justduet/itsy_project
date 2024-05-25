@@ -1,15 +1,15 @@
 <?php
-/* Smarty version 4.5.2, created on 2024-05-25 08:25:32
+/* Smarty version 4.5.2, created on 2024-05-25 15:17:24
   from '/Applications/MAMP/htdocs/minimal_project/manager/templates/default/header.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.5.2',
-  'unifunc' => 'content_6651a07c115a52_07776173',
+  'unifunc' => 'content_665201044df5d0_11095188',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
-    'eee710cacef35bc4db6d87b26a5ce96beb1c2eb3' => 
+    '82353b4c36749d4c2509b998cd3e8ffd960aafa6' => 
     array (
       0 => '/Applications/MAMP/htdocs/minimal_project/manager/templates/default/header.tpl',
       1 => 1712733460,
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6651a07c115a52_07776173 (Smarty_Internal_Template $_smarty_tpl) {
+function content_665201044df5d0_11095188 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!doctype html>
 <html dir="<?php echo $_smarty_tpl->tpl_vars['_config']->value['manager_direction'];?>
 " lang="<?php echo $_smarty_tpl->tpl_vars['_config']->value['cultureKey'];?>

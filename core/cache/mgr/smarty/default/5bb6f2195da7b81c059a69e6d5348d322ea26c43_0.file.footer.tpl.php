@@ -1,15 +1,15 @@
 <?php
-/* Smarty version 4.5.2, created on 2024-05-25 08:25:32
+/* Smarty version 4.5.2, created on 2024-05-25 15:17:24
   from '/Applications/MAMP/htdocs/minimal_project/manager/templates/default/footer.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.5.2',
-  'unifunc' => 'content_6651a07c11fc35_43144241',
+  'unifunc' => 'content_665201044eb8b2_97487203',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
-    'd79c336bbb0607a0ab23af64a82809362a0be14a' => 
+    '5bb6f2195da7b81c059a69e6d5348d322ea26c43' => 
     array (
       0 => '/Applications/MAMP/htdocs/minimal_project/manager/templates/default/footer.tpl',
       1 => 1712733460,
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6651a07c11fc35_43144241 (Smarty_Internal_Template $_smarty_tpl) {
+function content_665201044eb8b2_97487203 (Smarty_Internal_Template $_smarty_tpl) {
 ?>    </div>
     <!-- #modx-content-->
     <div id="modx-footer">

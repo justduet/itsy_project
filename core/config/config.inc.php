@@ -23,28 +23,28 @@ $https_port = '443';
 $uuid = '97d74f53-9fe4-405f-8a4d-4affc36d5448';
 
 if (!defined('MODX_CORE_PATH')) {
-    $modx_core_path= '/Applications/MAMP/htdocs/itsy_project/core/';
+    $modx_core_path= '/Applications/MAMP/htdocs/minimal_project/core/';
     define('MODX_CORE_PATH', $modx_core_path);
 }
 if (!defined('MODX_PROCESSORS_PATH')) {
-    $modx_processors_path= '/Applications/MAMP/htdocs/itsy_project/core/src/Revolution/Processors/';
+    $modx_processors_path= '/Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Processors/';
     define('MODX_PROCESSORS_PATH', $modx_processors_path);
 }
 if (!defined('MODX_CONNECTORS_PATH')) {
-    $modx_connectors_path= '/Applications/MAMP/htdocs/itsy_project/connectors/';
-    $modx_connectors_url= '/itsy_project/connectors/';
+    $modx_connectors_path= '/Applications/MAMP/htdocs/minimal_project/connectors/';
+    $modx_connectors_url= '/minimal_project/connectors/';
     define('MODX_CONNECTORS_PATH', $modx_connectors_path);
     define('MODX_CONNECTORS_URL', $modx_connectors_url);
 }
 if (!defined('MODX_MANAGER_PATH')) {
-    $modx_manager_path= '/Applications/MAMP/htdocs/itsy_project/manager/';
-    $modx_manager_url= '/itsy_project/manager/';
+    $modx_manager_path= '/Applications/MAMP/htdocs/minimal_project/manager/';
+    $modx_manager_url= '/minimal_project/manager/';
     define('MODX_MANAGER_PATH', $modx_manager_path);
     define('MODX_MANAGER_URL', $modx_manager_url);
 }
 if (!defined('MODX_BASE_PATH')) {
-    $modx_base_path= '/Applications/MAMP/htdocs/itsy_project/';
-    $modx_base_url= '/itsy_project/';
+    $modx_base_path= '/Applications/MAMP/htdocs/minimal_project/';
+    $modx_base_url= '/minimal_project/';
     define('MODX_BASE_PATH', $modx_base_path);
     define('MODX_BASE_URL', $modx_base_url);
 }
@@ -73,8 +73,8 @@ if (!defined('MODX_SITE_URL')) {
     define('MODX_SITE_URL', $site_url);
 }
 if (!defined('MODX_ASSETS_PATH')) {
-    $modx_assets_path= '/Applications/MAMP/htdocs/itsy_project/assets/';
-    $modx_assets_url= '/itsy_project/assets/';
+    $modx_assets_path= '/Applications/MAMP/htdocs/minimal_project/assets/';
+    $modx_assets_url= '/minimal_project/assets/';
     define('MODX_ASSETS_PATH', $modx_assets_path);
     define('MODX_ASSETS_URL', $modx_assets_url);
 }

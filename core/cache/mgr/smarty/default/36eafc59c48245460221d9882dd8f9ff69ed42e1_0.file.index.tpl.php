@@ -1,6 +1,6 @@
 <?php
 /* Smarty version 4.5.2, created on 2024-05-25 08:41:10
-  from '/Applications/MAMP/htdocs/itsy_project/manager/templates/default/workspaces/index.tpl' */
+  from '/Applications/MAMP/htdocs/minimal_project/manager/templates/default/workspaces/index.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
@@ -11,7 +11,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
     '36eafc59c48245460221d9882dd8f9ff69ed42e1' => 
     array (
-      0 => '/Applications/MAMP/htdocs/itsy_project/manager/templates/default/workspaces/index.tpl',
+      0 => '/Applications/MAMP/htdocs/minimal_project/manager/templates/default/workspaces/index.tpl',
       1 => 1712733460,
       2 => 'file',
     ),

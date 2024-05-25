@@ -88,3 +88,17 @@
 [2024-05-25 13:37:28] (ERROR @ /Applications/MAMP/htdocs/itsy_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
 [2024-05-25 13:41:45] (ERROR @ /Applications/MAMP/htdocs/itsy_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
 [2024-05-25 13:41:45] (ERROR @ /Applications/MAMP/htdocs/itsy_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-25 15:22:30] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-25 15:22:30] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-25 15:24:27] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-25 15:24:27] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-25 15:25:01] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-25 15:25:01] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-25 15:34:28] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-25 15:34:28] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-25 15:37:25] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-25 15:37:25] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-25 15:48:14] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-25 15:48:14] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-25 15:49:47] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-25 15:49:47] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
