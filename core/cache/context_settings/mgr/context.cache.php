@@ -4,6 +4,9 @@
     'allow_tags_in_post' => '1',
     'modRequest.class' => 'MODX\\Revolution\\modManagerRequest',
   ),
+  'aliasMap' => 
+  array (
+  ),
   'webLinkMap' => 
   array (
   ),

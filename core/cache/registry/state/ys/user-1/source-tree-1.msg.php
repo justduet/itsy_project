@@ -1,2 +1,2 @@
 <?php
-return '/Filesystem/core';
+return '/Filesystem/assets';
