@@ -1,0 +1,2 @@
+[2024-05-25 08:25:16] (ERROR @ /Applications/MAMP/htdocs/itsy_project/core/cache/setup/smarty/e630de1748ba54c77aec17e784a75bd9bd1c240c_0.file.complete.tpl.php : 30) PHP warning: Undefined array key "errors"
+[2024-05-25 08:25:16] (ERROR @ /Applications/MAMP/htdocs/itsy_project/core/cache/setup/smarty/e630de1748ba54c77aec17e784a75bd9bd1c240c_0.file.complete.tpl.php : 30) PHP warning: Attempt to read property "value" on null
