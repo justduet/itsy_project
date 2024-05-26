@@ -105,3 +105,34 @@
 [2024-05-25 15:59:05] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
 [2024-05-25 15:59:50] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
 [2024-05-25 15:59:50] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-25 16:26:36] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-25 16:26:36] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-25 16:26:53] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-25 16:26:53] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-25 16:26:57] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-25 16:26:57] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-25 23:01:38] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-25 23:01:38] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-26 11:11:33] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-26 11:11:33] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-26 11:15:18] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-26 11:15:18] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-26 11:19:37] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Sources/modMediaSource.php : 2244) PHP warning: exif_read_data(img_bg_1.jpg): File not supported
+[2024-05-26 11:19:37] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Sources/modMediaSource.php : 2244) PHP warning: exif_read_data(loader.gif): File not supported
+[2024-05-26 11:19:50] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/james-heinrich/phpthumb/phpthumb.class.php : 1591) PHP warning: file_get_contents(/Applications/MAMP/htdocs/minimal_project/core/cache/phpthumb/phpThumbCacheIMversion.txt): Failed to open stream: No such file or directory
+[2024-05-26 11:19:50] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/james-heinrich/phpthumb/phpthumb.class.php : 1518) PHP warning: file_get_contents(/Applications/MAMP/htdocs/minimal_project/core/cache/phpthumb/phpThumbCacheIMcommandlineBase.txt): Failed to open stream: No such file or directory
+[2024-05-26 11:19:50] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/james-heinrich/phpthumb/phpthumb.class.php : 1495) PHP warning: file_get_contents(/Applications/MAMP/htdocs/minimal_project/core/cache/phpthumb/phpThumbCacheIMwhichConvert.txt): Failed to open stream: No such file or directory
+[2024-05-26 11:19:50] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/james-heinrich/phpthumb/phpthumb.class.php : 2498) PHP warning: Undefined array key "Orientation"
+[2024-05-26 11:19:50] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/james-heinrich/phpthumb/phpthumb.class.php : 2513) PHP warning: Undefined array key "Orientation"
+[2024-05-26 11:19:52] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/james-heinrich/phpthumb/phpthumb.class.php : 2498) PHP warning: Undefined array key "Orientation"
+[2024-05-26 11:19:52] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/james-heinrich/phpthumb/phpthumb.class.php : 2513) PHP warning: Undefined array key "Orientation"
+[2024-05-26 11:19:53] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/james-heinrich/phpthumb/phpthumb.class.php : 4460) PHP warning: imagecreatefromstring(): No AVIF support in this PHP build
+[2024-05-26 11:19:53] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/modPhpThumb.php : 229) phpThumb was unable to generate a thumbnail for: /Applications/MAMP/htdocs/minimal_project/core/cache/phpthumb/localhost__src0b87e622c623766f3c9a08e6694cd30e_par8cda8057fa47e078524e68d375bcd048_dat1716722348.png
+[2024-05-26 11:19:53] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/modPhpThumb.php : 245) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 702
+[2024-05-26 11:20:03] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/james-heinrich/phpthumb/phpthumb.class.php : 2498) PHP warning: Undefined array key "Orientation"
+[2024-05-26 11:20:03] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/james-heinrich/phpthumb/phpthumb.class.php : 2513) PHP warning: Undefined array key "Orientation"
+[2024-05-26 11:20:03] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/james-heinrich/phpthumb/phpthumb.class.php : 2498) PHP warning: Undefined array key "Orientation"
+[2024-05-26 11:20:03] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/james-heinrich/phpthumb/phpthumb.class.php : 2513) PHP warning: Undefined array key "Orientation"
+[2024-05-26 11:20:03] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/james-heinrich/phpthumb/phpthumb.class.php : 2496) PHP warning: exif_read_data(loader.gif): File not supported
+[2024-05-26 11:29:03] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Sources/modMediaSource.php : 2244) PHP warning: exif_read_data(loader.gif): File not supported

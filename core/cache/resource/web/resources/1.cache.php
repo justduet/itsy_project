@@ -25,7 +25,7 @@
     'createdby' => 1,
     'createdon' => 1716625511,
     'editedby' => 1,
-    'editedon' => 1716652845,
+    'editedon' => 1716722373,
     'deleted' => 0,
     'deletedon' => 0,
     'deletedby' => 0,
@@ -154,8 +154,7 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-md-offset-3 col-md-pull-3 slider-text">
 				   				<div class="slider-text-inner">
-				   					<h1>Not Every Project Needs To Be Perfect</h1>
-										<h2>Free html5 templates Made by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2>
+				   					<h1>Helping You Focus On Your Personal And Professional Growth</h1>
 										<p><a class="btn btn-primary btn-demo" href="#"></i> View Demo</a> <a class="btn btn-primary btn-learn">Learn More</a></p>
 				   				</div>
 				   			</div>
@@ -168,8 +167,7 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-md-offset-3 col-md-push-3 slider-text">
 				   				<div class="slider-text-inner">
-				   					<h1>WordPress Theme For People Who Tell Stories</h1>
-										<h2>Free html5 templates Made by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2>
+				   					<h1>Tell Your Story</h1>
 										<p><a class="btn btn-primary btn-demo" href="#"></i> View Demo</a> <a class="btn btn-primary btn-learn">Learn More</a></p>
 				   				</div>
 				   			</div>
@@ -182,8 +180,7 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-md-offset-3 slider-text">
 				   				<div class="slider-text-inner text-center">
-				   					<h1>What Would You Like To Learn?</h1>
-										<h2>Free html5 templates Made by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2>
+				   					<h1>Go At Your Own Pace</h1>
 										<p><a class="btn btn-primary btn-demo" href="#"></i> View Demo</a> <a class="btn btn-primary btn-learn">Learn More</a></p>
 				   				</div>
 				   			</div>
@@ -196,8 +193,7 @@
 			   			<div class="row">
 				   			<div class="col-md-6 col-md-offset-3 col-md-push-3 slider-text">
 				   				<div class="slider-text-inner">
-				   					<h1>I Love to Tell My Story</h1>
-										<h2>Free html5 templates Made by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2>
+				   					<h1>Experience Personal and Financial Freedom</h1>
 										<p><a class="btn btn-primary btn-demo" href="#"></i> View Demo</a> <a class="btn btn-primary btn-learn">Learn More</a></p>
 				   				</div>
 				   			</div>
