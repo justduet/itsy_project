@@ -1,0 +1,17 @@
+<?php return array (
+  'unique_key' => 'name',
+  'preserve_keys' => true,
+  'update_object' => true,
+  'resolve_files' => true,
+  'resolve_php' => true,
+  'namespace' => 'articles',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_class' => 'xPDO\\Transport\\xPDOObjectVehicle',
+  'guid' => 'edf16f2c7e69b254508966d733332fcb',
+  'package' => '',
+  'class' => 'MODX\\Revolution\\modNamespace',
+  'signature' => 'e88f780aa7b598a64be0397e9062d26b',
+  'native_key' => 'articles',
+  'object' => '{"name":"articles","path":"{core_path}components\\/articles\\/","assets_path":"{assets_path}components\\/articles\\/"}',
+);

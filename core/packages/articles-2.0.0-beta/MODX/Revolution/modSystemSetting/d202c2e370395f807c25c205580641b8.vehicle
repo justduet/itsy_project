@@ -1,0 +1,15 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'articles',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_class' => 'xPDO\\Transport\\xPDOObjectVehicle',
+  'guid' => '1468d8e1074c6e2ee59a695fe2679fd3',
+  'package' => '',
+  'class' => 'MODX\\Revolution\\modSystemSetting',
+  'signature' => 'd202c2e370395f807c25c205580641b8',
+  'native_key' => 'articles.default_article_sort_field',
+  'object' => '{"key":"articles.default_article_sort_field","value":"createdon","xtype":"textfield","namespace":"articles","area":"site","editedon":null}',
+);

@@ -183,3 +183,97 @@ OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpt
 [2024-05-26 12:42:31] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
 [2024-05-26 12:43:24] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
 [2024-05-26 12:43:24] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-26 16:37:14] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Sources/modMediaSource.php : 2244) PHP warning: exif_read_data(loader.gif): File not supported
+[2024-05-26 16:37:14] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Sources/modMediaSource.php : 2244) PHP warning: exif_read_data(portfolio-2.0.jpg): File not supported
+[2024-05-26 16:37:14] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Sources/modMediaSource.php : 2244) PHP warning: exif_read_data(blog-2.0.jpg): File not supported
+[2024-05-26 16:37:14] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Sources/modMediaSource.php : 2244) PHP warning: exif_read_data(blog-4.0.jpg): File not supported
+[2024-05-26 16:37:14] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Sources/modMediaSource.php : 2244) PHP warning: exif_read_data(portfolio-4.0.jpg): File not supported
+[2024-05-26 16:51:22] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-26 16:51:22] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-26 16:51:59] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-26 16:51:59] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-26 17:00:27] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-26 17:00:27] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-26 17:00:58] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-26 17:00:58] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-26 17:02:00] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-26 17:02:00] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-26 17:02:08] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-26 17:02:08] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-26 17:03:08] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-26 17:03:08] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-26 17:04:08] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-26 17:04:08] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-26 17:04:24] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-26 17:04:24] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-26 17:06:58] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-26 17:06:58] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-26 17:10:23] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-26 17:10:23] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-26 17:10:50] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-26 17:10:50] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-26 19:03:45] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-26 19:03:45] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-26 19:03:53] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-26 19:03:53] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-26 19:11:52] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Transport/modTransportPackage.php : 433) PHP warning: filesize(): stat failed for https://modx.s3.amazonaws.com/extras/4d556c94b2b083396d000cc9/gallery-2.0.1-pl.transport.zip?revolution_version=Revolution-3.0.5-pl
+[2024-05-26 19:11:52] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Transport/modTransportPackage.php : 756) PHP warning: A non-numeric value encountered
+[2024-05-26 19:12:12] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Transport/modTransportPackage.php : 433) PHP warning: filesize(): stat failed for https://modx.s3.amazonaws.com/extras/4ed54c96f24554449000008a/articles-2.0.0-beta.transport.zip?revolution_version=Revolution-3.0.5-pl
+[2024-05-26 19:12:12] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Transport/modTransportPackage.php : 756) PHP warning: A non-numeric value encountered
+[2024-05-26 19:12:46] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Transport/modTransportPackage.php : 433) PHP warning: filesize(): stat failed for https://modx.s3.amazonaws.com/extras/4d556cbbb2b083396d000db1/archivist-1.2.5-pl.transport.zip?revolution_version=Revolution-3.0.5-pl
+[2024-05-26 19:12:46] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Transport/modTransportPackage.php : 756) PHP warning: A non-numeric value encountered
+[2024-05-26 19:12:54] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Transport/modTransportPackage.php : 433) PHP warning: filesize(): stat failed for https://modx.s3.amazonaws.com/extras/4d556c77b2b083396d000c1b/getpage-1.2.5-pl.transport.zip?revolution_version=Revolution-3.0.5-pl
+[2024-05-26 19:12:54] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Transport/modTransportPackage.php : 756) PHP warning: A non-numeric value encountered
+[2024-05-26 19:13:02] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Transport/modTransportPackage.php : 433) PHP warning: filesize(): stat failed for https://modx.s3.amazonaws.com/extras/4d556cc4b2b083396d000de8/taglister-1.1.7-pl.transport.zip?revolution_version=Revolution-3.0.5-pl
+[2024-05-26 19:13:02] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Transport/modTransportPackage.php : 756) PHP warning: A non-numeric value encountered
+[2024-05-26 19:13:16] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Transport/modTransportPackage.php : 433) PHP warning: filesize(): stat failed for https://modx.s3.amazonaws.com/extras/4d556c11b2b083396d0009b8/quip-2.1.0-rc1.transport.zip?revolution_version=Revolution-3.0.5-pl
+[2024-05-26 19:13:16] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Transport/modTransportPackage.php : 756) PHP warning: A non-numeric value encountered
+[2024-05-26 19:14:10] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Transport/modTransportPackage.php : 433) PHP warning: filesize(): stat failed for https://modx-sentinel-prod.nyc3.digitaloceanspaces.com/extras/packages/99066727-ef34-48eb-9e20-d0973d364b9c/versions/99569a80-e358-4a83-a258-b3f5fa6da749/getresources-1.7.1-pl.transport.zip?revolution_version=Revolution-3.0.5-pl
+[2024-05-26 19:14:10] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Transport/modTransportPackage.php : 756) PHP warning: A non-numeric value encountered
+[2024-05-26 19:20:38] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Transport/modTransportPackage.php : 433) PHP warning: filesize(): stat failed for https://modx.s3.amazonaws.com/extras/4f6e2782f245544fe8000014/ace-1.9.3-pl.transport.zip?revolution_version=Revolution-3.0.5-pl
+[2024-05-26 19:20:38] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Transport/modTransportPackage.php : 756) PHP warning: A non-numeric value encountered
+[2024-05-26 19:23:29] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/cache/includes/elements/modx/revolution/modplugin/5.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2024-05-26 19:27:42] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-26 19:27:42] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-26 19:28:08] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-26 19:28:08] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 11:38:55] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 11:38:55] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 11:45:06] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 11:45:06] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 11:47:03] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 11:47:03] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 11:53:44] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 11:53:44] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 12:00:14] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 12:00:14] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 12:01:10] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 12:01:10] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 12:36:04] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/cache/includes/elements/modx/revolution/modplugin/5.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2024-05-27 12:38:15] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/cache/includes/elements/modx/revolution/modplugin/5.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2024-05-27 12:39:43] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Sources/modMediaSource.php : 2244) PHP warning: exif_read_data(loader.gif): File not supported
+[2024-05-27 12:39:43] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Sources/modMediaSource.php : 2244) PHP warning: exif_read_data(portfolio-2.0.jpg): File not supported
+[2024-05-27 12:39:43] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Sources/modMediaSource.php : 2244) PHP warning: exif_read_data(blog-2.0.jpg): File not supported
+[2024-05-27 12:39:43] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Sources/modMediaSource.php : 2244) PHP warning: exif_read_data(blog-4.0.jpg): File not supported
+[2024-05-27 12:39:43] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/src/Revolution/Sources/modMediaSource.php : 2244) PHP warning: exif_read_data(portfolio-4.0.jpg): File not supported
+[2024-05-27 12:42:08] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 12:42:08] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 12:44:46] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 12:44:46] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 12:44:59] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/cache/includes/elements/modx/revolution/modplugin/5.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2024-05-27 12:47:06] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 12:47:06] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 12:48:29] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 12:48:29] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 13:22:14] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 13:22:14] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 13:22:47] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 13:22:47] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 13:32:06] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 13:32:06] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 13:32:19] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 13:32:19] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 13:38:17] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 13:38:17] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 13:43:38] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 13:43:38] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists

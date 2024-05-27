@@ -1,2 +1,2 @@
 <?php
-return '/Filesystem/assets/neat/images';
+return '/Filesystem/assets/neat';

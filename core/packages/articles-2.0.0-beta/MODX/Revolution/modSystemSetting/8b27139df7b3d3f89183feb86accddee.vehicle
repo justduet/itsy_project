@@ -1,0 +1,15 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'articles',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_class' => 'xPDO\\Transport\\xPDOObjectVehicle',
+  'guid' => 'c617ad67c540c1957f6a87566a121d83',
+  'package' => '',
+  'class' => 'MODX\\Revolution\\modSystemSetting',
+  'signature' => '8b27139df7b3d3f89183feb86accddee',
+  'native_key' => 'articles.mgr_date_format',
+  'object' => '{"key":"articles.mgr_date_format","value":"%b %d","xtype":"textfield","namespace":"articles","area":"site","editedon":null}',
+);

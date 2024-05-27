@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'quip',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '41b3e10253a0f90698f2076c6313a405',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '25f2cf0dcd0874c1f147f6ce77f64166',
+  'native_key' => 'quip.emailsFrom',
+  'object' => '{"key":"quip.emailsFrom","value":"","xtype":"textfield","namespace":"quip","area":"email","editedon":null}',
+);
