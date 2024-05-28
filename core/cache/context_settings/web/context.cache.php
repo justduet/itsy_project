@@ -5,23 +5,25 @@
   'aliasMap' => 
   array (
     'index.html' => 1,
-    'portfolio/' => 2,
-    'cookie-mania.html' => 3,
-    'musical-chairs.html' => 4,
-    'building-blocks.html' => 5,
+    'project-container/' => 13,
+    'work.html' => 17,
+    'cookie-mania.html' => 14,
+    'musical-chairs.html' => 15,
+    'building-blocks.html' => 16,
   ),
   'resourceMap' => 
   array (
     0 => 
     array (
       0 => 1,
-      1 => 2,
+      1 => 13,
+      2 => 17,
     ),
-    2 => 
+    13 => 
     array (
-      0 => 3,
-      1 => 4,
-      2 => 5,
+      0 => 14,
+      1 => 15,
+      2 => 16,
     ),
   ),
   'webLinkMap' => 
