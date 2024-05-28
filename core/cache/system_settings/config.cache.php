@@ -20,7 +20,7 @@
   'anonymous_sessions' => '1',
   'archive_with' => '',
   'articles.article_show_longtitle' => '',
-  'articles.container_ids' => '',
+  'articles.container_ids' => ',2:arc_',
   'articles.default_article_sort_field' => 'createdon',
   'articles.default_article_template' => '0',
   'articles.default_container_template' => '0',

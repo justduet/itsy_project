@@ -5,12 +5,23 @@
   'aliasMap' => 
   array (
     'index.html' => 1,
+    'portfolio/' => 2,
+    'cookie-mania.html' => 3,
+    'musical-chairs.html' => 4,
+    'building-blocks.html' => 5,
   ),
   'resourceMap' => 
   array (
     0 => 
     array (
       0 => 1,
+      1 => 2,
+    ),
+    2 => 
+    array (
+      0 => 3,
+      1 => 4,
+      2 => 5,
     ),
   ),
   'webLinkMap' => 

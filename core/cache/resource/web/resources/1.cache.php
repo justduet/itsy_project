@@ -25,7 +25,7 @@ Hello',
     'createdby' => 1,
     'createdon' => 1716625511,
     'editedby' => 1,
-    'editedon' => 1716820027,
+    'editedon' => 1716880686,
     'deleted' => 0,
     'deletedon' => 0,
     'deletedby' => 0,
@@ -73,7 +73,7 @@ Hello',
     'aboutPinch' => 
     array (
       0 => 'aboutPinch',
-      1 => 'Pinch specializes in facilitating personal and financial growth through the innovative fusion of website design and goal-setting methodologies. At Pinch, we believe that every digital touchpoint is an opportunity for empowerment and advancement. Through our bespoke website designs, we not only create stunning online experiences but also lay the foundation for our clients\' success in the digital realm.',
+      1 => 'Pinch specializes in facilitating personal and financial growth through the innovative fusion of website design and goal-setting methodologies. Through our bespoke website designs, we not only create stunning online experiences but also lay the foundation for our clients\' success in the digital realm.',
       2 => 'default',
       3 => NULL,
       4 => 'text',
@@ -100,6 +100,17 @@ Hello',
 						<li><a href="blog.html">Blog</a></li>
 						<li><a href="about.html">About us</a></li>
 				',
+      2 => 'default',
+      3 => NULL,
+      4 => 'richtext',
+    ),
+    'contactInfo' => 
+    array (
+      0 => 'contactInfo',
+      1 => '<li>198 West 21th Street, <br> Suite 721 New York NY 10016</li>
+						<li><a href="tel://1234567920">+ 1235 2355 98</a></li>
+						<li><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
+						<li><a href="http://gettemplates.co">gettemplates.co</a></li>',
       2 => 'default',
       3 => NULL,
       4 => 'richtext',
@@ -213,8 +224,7 @@ Hello',
 				   			<div class="col-md-6 col-md-offset-3 col-md-pull-3 slider-text">
 				   				<div class="slider-text-inner">
 				   					<h1>Helping You Focus On Your Personal And Professional Growth</h1>
-										<p><a class="btn btn-primary btn-demo" href="#"></i> 
-Hello</a> <a class="btn btn-primary btn-learn">Learn More</a></p>
+										<p><a class="btn btn-primary btn-demo" href="#"></i>View Demo</a> <a class="btn btn-primary btn-learn">Learn More</a></p>
 				   				</div>
 				   			</div>
 				   		</div>
@@ -419,7 +429,7 @@ Hello</a> <a class="btn btn-primary btn-learn">Learn More</a></p>
 			<div class="row">
 				<div class="col-md-3 fh5co-widget">
 					<h4>About Pinch</h4>
-					<p>Pinch specializes in facilitating personal and financial growth through the innovative fusion of website design and goal-setting methodologies. At Pinch, we believe that every digital touchpoint is an opportunity for empowerment and advancement. Through our bespoke website designs, we not only create stunning online experiences but also lay the foundation for our clients\' success in the digital realm.</p>
+					<p>Pinch specializes in facilitating personal and financial growth through the innovative fusion of website design and goal-setting methodologies. Through our bespoke website designs, we not only create stunning online experiences but also lay the foundation for our clients\' success in the digital realm.</p>
 				</div>
 				<div class="col-md-3 col-md-push-1">
 					<h4>Latest Posts</h4>
@@ -635,7 +645,7 @@ Hello</a> <a class="btn btn-primary btn-learn">Learn More</a></p>
 			</div>
 		</div>
 	</div>',
-    '[[*aboutPinch]]' => 'Pinch specializes in facilitating personal and financial growth through the innovative fusion of website design and goal-setting methodologies. At Pinch, we believe that every digital touchpoint is an opportunity for empowerment and advancement. Through our bespoke website designs, we not only create stunning online experiences but also lay the foundation for our clients\' success in the digital realm.',
+    '[[*aboutPinch]]' => 'Pinch specializes in facilitating personal and financial growth through the innovative fusion of website design and goal-setting methodologies. Through our bespoke website designs, we not only create stunning online experiences but also lay the foundation for our clients\' success in the digital realm.',
     '[[*latestPosts]]' => '<li><a href="#">Amazing Templates</a></li>
 						<li><a href="#">100+ Free Download Templates</a></li>
 						<li><a href="#">Neat is now available</a></li>
@@ -648,12 +658,16 @@ Hello</a> <a class="btn btn-primary btn-learn">Learn More</a></p>
 						<li><a href="blog.html">Blog</a></li>
 						<li><a href="about.html">About us</a></li>
 				',
+    '[[*contactInfo]]' => '<li>198 West 21th Street, <br> Suite 721 New York NY 10016</li>
+						<li><a href="tel://1234567920">+ 1235 2355 98</a></li>
+						<li><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
+						<li><a href="http://gettemplates.co">gettemplates.co</a></li>',
     '[[$footer]]' => '<div class="container-wrap">
 		<footer id="fh5co-footer" role="contentinfo">
 			<div class="row">
 				<div class="col-md-3 fh5co-widget">
 					<h4>About Pinch</h4>
-					<p>Pinch specializes in facilitating personal and financial growth through the innovative fusion of website design and goal-setting methodologies. At Pinch, we believe that every digital touchpoint is an opportunity for empowerment and advancement. Through our bespoke website designs, we not only create stunning online experiences but also lay the foundation for our clients\' success in the digital realm.</p>
+					<p>Pinch specializes in facilitating personal and financial growth through the innovative fusion of website design and goal-setting methodologies. Through our bespoke website designs, we not only create stunning online experiences but also lay the foundation for our clients\' success in the digital realm.</p>
 				</div>
 				<div class="col-md-3 col-md-push-1">
 					<h4>Latest Posts</h4>
@@ -1067,10 +1081,7 @@ Hello</a> <a class="btn btn-primary btn-learn">Learn More</a></p>
 				<div class="col-md-3">
 					<h4>Contact Information</h4>
 					<ul class="fh5co-footer-links">
-						<li>198 West 21th Street, <br> Suite 721 New York NY 10016</li>
-						<li><a href="tel://1234567920">+ 1235 2355 98</a></li>
-						<li><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
-						<li><a href="http://gettemplates.co">gettemplates.co</a></li>
+						[[*contactInfo]]
 					</ul>
 				</div>
 
@@ -1124,10 +1135,7 @@ Hello</a> <a class="btn btn-primary btn-learn">Learn More</a></p>
 				<div class="col-md-3">
 					<h4>Contact Information</h4>
 					<ul class="fh5co-footer-links">
-						<li>198 West 21th Street, <br> Suite 721 New York NY 10016</li>
-						<li><a href="tel://1234567920">+ 1235 2355 98</a></li>
-						<li><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
-						<li><a href="http://gettemplates.co">gettemplates.co</a></li>
+						[[*contactInfo]]
 					</ul>
 				</div>
 
@@ -1506,6 +1514,53 @@ Hello</a> <a class="btn btn-primary btn-learn">Learn More</a></p>
           'type' => 'richtext',
           'name' => 'localLinks',
           'caption' => 'links to pages in the website',
+          'description' => '',
+          'editor_type' => 0,
+          'category' => 8,
+          'locked' => false,
+          'elements' => NULL,
+          'rank' => 0,
+          'display' => 'default',
+          'default_text' => '',
+          'properties' => 
+          array (
+          ),
+          'input_properties' => 
+          array (
+            'allowBlank' => 'true',
+          ),
+          'output_properties' => 
+          array (
+          ),
+          'static' => false,
+          'static_file' => '',
+          'content' => '',
+        ),
+        'policies' => 
+        array (
+        ),
+        'source' => 
+        array (
+          'id' => 1,
+          'name' => 'Filesystem',
+          'description' => '',
+          'class_key' => 'MODX\\Revolution\\Sources\\modFileMediaSource',
+          'properties' => 
+          array (
+          ),
+          'is_stream' => true,
+        ),
+      ),
+      'contactInfo' => 
+      array (
+        'fields' => 
+        array (
+          'id' => 8,
+          'source' => 1,
+          'property_preprocess' => false,
+          'type' => 'richtext',
+          'name' => 'contactInfo',
+          'caption' => 'Contact information and location for company',
           'description' => '',
           'editor_type' => 0,
           'category' => 8,

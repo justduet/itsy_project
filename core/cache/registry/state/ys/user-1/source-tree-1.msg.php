@@ -1,2 +1,2 @@
 <?php
-return '/Filesystem/assets/neat';
+return '/Filesystem/assets/neat/sass';

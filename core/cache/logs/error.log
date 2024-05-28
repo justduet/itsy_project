@@ -291,3 +291,49 @@ OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpt
 [2024-05-27 14:24:41] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
 [2024-05-27 14:25:20] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
 [2024-05-27 14:25:20] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 14:29:15] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 14:29:15] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 17:42:43] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/components/articles/controllers/container/update.class.php : 35) PHP warning: Undefined variable $settings
+[2024-05-27 17:42:44] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/xPDO.php : 667) Could not load class: modAction from mysql.modaction
+[2024-05-27 17:42:44] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/xPDO.php : 787) modAction::load() is not a valid static method.
+[2024-05-27 17:43:32] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/components/articles/controllers/container/update.class.php : 35) PHP warning: Undefined variable $settings
+[2024-05-27 17:43:32] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/xPDO.php : 667) Could not load class: modAction from mysql.modaction
+[2024-05-27 17:43:32] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/xPDO.php : 787) modAction::load() is not a valid static method.
+[2024-05-27 17:43:53] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOQuery.php : 785) Encountered empty IN condition with key contentid
+[2024-05-27 17:43:53] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Om/xPDOObject.php : 227) Error 42000 executing statement: 
+Array
+(
+    [0] => 42000
+    [1] => 1064
+    [2] => You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') )' at line 1
+)
+
+[2024-05-27 17:44:10] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/components/articles/controllers/article/update.class.php : 35) PHP warning: Undefined variable $settings
+[2024-05-27 17:44:12] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/components/articles/controllers/container/update.class.php : 35) PHP warning: Undefined variable $settings
+[2024-05-27 17:44:12] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/xPDO.php : 667) Could not load class: modAction from mysql.modaction
+[2024-05-27 17:44:12] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/xPDO.php : 787) modAction::load() is not a valid static method.
+[2024-05-27 17:44:25] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/components/articles/controllers/article/update.class.php : 35) PHP warning: Undefined variable $settings
+[2024-05-27 17:44:31] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/components/articles/controllers/container/update.class.php : 35) PHP warning: Undefined variable $settings
+[2024-05-27 17:44:31] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/xPDO.php : 667) Could not load class: modAction from mysql.modaction
+[2024-05-27 17:44:31] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/xPDO.php : 787) modAction::load() is not a valid static method.
+[2024-05-27 17:44:46] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/components/articles/controllers/article/update.class.php : 35) PHP warning: Undefined variable $settings
+[2024-05-27 19:46:09] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 19:46:09] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 19:55:10] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 19:55:10] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 20:01:37] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 20:01:37] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 20:03:50] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 20:03:50] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 20:07:34] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 20:07:34] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 20:09:20] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 20:09:20] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-27 20:18:15] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-27 20:18:15] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-28 07:11:05] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-28 07:11:05] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-28 07:12:40] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-28 07:12:40] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2024-05-28 07:17:00] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2024-05-28 07:17:00] (ERROR @ /Applications/MAMP/htdocs/minimal_project/core/vendor/xpdo/xpdo/src/xPDO/Cache/xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists

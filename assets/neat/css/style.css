@@ -62,8 +62,9 @@ p {
   margin-bottom: 20px;
 }
 
+
 h1, h2, h3, h4, h5, h6, figure {
-  color: #000;
+  color: #fff;
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
@@ -413,7 +414,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-hero .flexslider .slider-text > .slider-text-inner h1, #fh5co-hero .flexslider .slider-text > .slider-text-inner h2 {
   margin: 0;
   padding: 0;
-  color: black;
+  color: #000;
   font-family: "Oxygen", sans-serif;
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner h1 {
@@ -425,12 +426,14 @@ h1, h2, h3, h4, h5, h6, figure {
 @media screen and (max-width: 768px) {
   #fh5co-hero .flexslider .slider-text > .slider-text-inner h1 {
     font-size: 28px;
+    color:#000;
   }
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner h2 {
   font-size: 18px;
   line-height: 1.5;
   margin-bottom: 30px;
+  color: #000;
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner h2 a {
   color: rgba(102, 211, 126, 0.8);
@@ -457,7 +460,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 2px;
-  color: #000;
+  color: #fff;
   padding: 20px 30px !important;
   border: none;
 }
@@ -968,7 +971,7 @@ input[type="text"] {
   font-family: "Source Sans Pro", sans-serif;
   letter-spacing: 1px;
   text-transform: uppercase;
-  color: #000;
+  color: #fff;
 }
 .fh5co-heading span {
   display: block;

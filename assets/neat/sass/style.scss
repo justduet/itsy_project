@@ -3,7 +3,7 @@ $font-secondary: 'Source Sans Pro', sans-serif;
 
 
 
-// Overrides
+
 $grid-gutter-width: 40px !default; 
 $border-radius-base:  4px !default;
 $padding-base-vertical: 14px !default;
@@ -151,8 +151,9 @@ p {
 	margin-bottom: 20px;
 }
 
+
 h1, h2, h3, h4, h5, h6, figure {
-	color: $brand-black;
+	color: #000;
 	font-family: $font-secondary;
 	font-weight: 400;
 	margin: 0 0 20px 0;
@@ -492,7 +493,7 @@ h1, h2, h3, h4, h5, h6, figure {
 				h1, h2 {
 					margin: 0;
 					padding: 0;
-					color: rgba(0,0,0,1);
+					color: #000;
 					font-family: $font-primary;
 				}
 				h1 {
@@ -625,7 +626,7 @@ h1, h2, h3, h4, h5, h6, figure {
 		display: table-cell;
 		vertical-align: middle;
 		height: 270px;
-		background: $brand-white;
+		background: #fff;
 		opacity: 0;
 		@include transition(.3s);
 		h3{
