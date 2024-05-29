@@ -1,1 +1,57 @@
 /vendor/
+
+# MODX specific ignores
+#Committing credentials because this is a learning experience
+#config.core.php
+#/core/config/
+#/connectors/config.core.php
+#/manager/config.core.php
+
+/core/cache/
+/core/export/
+/core/logs/
+/core/packages/
+/core/.git/
+/core/.env
+
+/assets/cache/
+/assets/components/
+/assets/images/
+/assets/thumbs/
+/assets/uploads/
+/assets/files/
+/assets/images/users/
+/assets/images/resources/
+
+/core/vendor/
+
+# Smarty specific ignores
+/templates_c/
+/cache/
+smarty.config.php
+
+# General environment and configuration files
+config.local.php
+.env
+.env.local
+
+# Log files
+logs/
+*.log
+
+# IDE and editor files
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+
+# Other temporary or build files
+/build/
+dist/
+tmp/
+
