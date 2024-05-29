@@ -1,1 +1,0 @@
-[2024-05-25 08:25:11] (ERROR @ /Applications/MAMP/htdocs/itsy_project/setup/includes/modinstallsettings.class.php : 164) PHP warning: fopen(/Applications/MAMP/htdocs/itsy_project/core/cache/setup/settings.cache.php): Failed to open stream: No such file or directory
